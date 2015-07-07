@@ -1,0 +1,28 @@
+{
+  "name": "@zstallings/number-formatter",
+  "version": "0.0.1",
+  "description": "Adds commas to a number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakstal/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter",
+    "commas"
+  ],
+  "author": "Zak Stallings (zakstal.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakstal/number-formatter/issues"
+  },
+  "homepage": "https://github.com/zakstal/number-formatter",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
