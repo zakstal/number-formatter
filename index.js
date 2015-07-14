@@ -6,6 +6,6 @@
  * @return {string}
  */
 
-module.exports = function (number, local) {
-    return number.toLocaleString(local);
+module.exports = function (number) {
+    return number.toLocaleString(number);
 };
