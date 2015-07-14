@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/zakstal/number-formatter.svg?branch=master)](https://travis-ci.org/zakstal/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/zakstal/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/zakstal/number-formatter?branch=master)
+
 Number Formatter
 =========
 
